@@ -12,9 +12,9 @@ let userEmail;
 const id = Symbol('2344')
 const anotherId = Symbol('2344')
 
-// console.log(id === anotherId);
+ //console.log(id === anotherId);
 
-const BigNumber = 23234324327437384738472n
+//const bigNumber = 23234324327437384738472n
 
 
 // Reference (Non primitive) type\
@@ -22,13 +22,15 @@ const BigNumber = 23234324327437384738472n
 // Array,Objects, Functions
 
 const heros =["veer", "rajeer", "SZSL"]
-let myObj{
-    name: "taksh"
-    age : 22, 
-}
+let myObj = {
+    name: "taksh",
+    age: 22,
+ }
 
 const myfunction = function(){
     console.log("Hello world");
 }
 
-console.log(typeof bigNumber);
+ console.log(typeof scoreValve);
+
+ // ttps://262.ecma-international.org/5.1/#sec-11.4.3
